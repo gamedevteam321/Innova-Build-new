@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-Innova Hycross-0.1.0";
+const cacheName = "Saathi-Innova Hycross Interactions-0.1.0";
 const contentToCache = [
     "Build/Innova-Build-new.loader.js",
     "Build/Innova-Build-new.framework.js.unityweb",
