@@ -1,9 +1,9 @@
 const cacheName = "Saathi-Innova Hycross Interactions-0.1.0";
 const contentToCache = [
-    "Build/Innova-Build-new.loader.js",
-    "Build/Innova-Build-new.framework.js.unityweb",
-    "Build/Innova-Build-new.data.unityweb",
-    "Build/Innova-Build-new.wasm.unityweb",
+    "Build/Innova-Build-new-git.loader.js",
+    "Build/Innova-Build-new-git.framework.js.unityweb",
+    "Build/Innova-Build-new-git.data.unityweb",
+    "Build/Innova-Build-new-git.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
